@@ -21,6 +21,7 @@ public class RecursiveMultiplication {
 			double number4 = scnr.nextDouble();
 			System.out.println("Fifth Number: ");
 			double number5 = scnr.nextDouble();
+			scnr.close();
 			
 			double[] numbers = {number1, number2, number3, number4, number5};
 			
