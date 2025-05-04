@@ -1,7 +1,6 @@
 package recursiveMultiplication;
 
 import java.util.Scanner;
-import java.util.InputMismatchException;
 
 public class RecursiveMultiplication {
 
